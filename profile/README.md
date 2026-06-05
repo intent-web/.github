@@ -12,6 +12,16 @@ In the traditional web, a person opens pages, reads content, clicks buttons, fil
 
 > From websites to capabilities. From clicks to intents. From SEO to AIO.
 
+## Watch The Overview
+
+<p align="center">
+  <a href="https://youtu.be/gPklDDaJlA4" title="Watch the IntentWeb concept overview video">
+    <img src="https://img.youtube.com/vi/gPklDDaJlA4/maxresdefault.jpg" alt="Watch the IntentWeb concept overview video" width="720">
+  </a>
+</p>
+
+This short video introduces the core IntentWeb idea: making every website intent-aware, agent-readable and action-ready.
+
 ## What Is IntentWeb?
 
 **IntentWeb is a proposed web layer where user intent becomes the starting point.**
